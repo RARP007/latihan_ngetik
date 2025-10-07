@@ -1,2 +1,2 @@
 const tombolSapa = document.getElementById('sapaButton')
-tombolSapa.addEventListener('dick',function(){alert('Yoo! Keren bro!'):}):
+tombolSapa.addEventListener('click',function(){alert('Yoo! Keren bro!'):}):
